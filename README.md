@@ -7,7 +7,7 @@
 I am a self-taught professional software developer passionate about challenges and continuous learning. My strength as a developer lies in my ability to research, gather information, and delve into complex problems to provide real solutions.
 
 - **Location:** Buenos Aires, Argentina
-- **LinkedIn:** [Carlos Miguel Garcia Garcia](http://www.linkedin.com/in/carlosmiguelgarciagarcia)
+- **LinkedIn:** [Carlos Garcia](http://www.linkedin.com/in/carlosgarciadevelop)
 
 ## Skills
 
